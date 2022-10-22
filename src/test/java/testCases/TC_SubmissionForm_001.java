@@ -1,15 +1,11 @@
 package testCases;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import java.io.IOException;
-import java.sql.DriverPropertyInfo;
 import java.util.List;
 
 public class TC_SubmissionForm_001 extends BaseClass {
@@ -191,7 +187,7 @@ public class TC_SubmissionForm_001 extends BaseClass {
     @Test(priority = 7)
     public void contactUs() throws InterruptedException, IOException {
         logger.info("Clicking and give all detail to Contact us form");
-        driver.findElement(By.xpath("//*[@id=\"site-navigation\"]/ul/li[5]/a")).click();
+        driver.findElement(By.xpath("//*[@id='site-navigation']/ul/li[5]/a")).click();
         driver.findElement(By.name("full_name")).sendKeys("Suraj Gupta");
         driver.findElement(By.name("company")).sendKeys("Webo digital");
         driver.findElement(By.name("email")).sendKeys("suraj520876@gmail.com");
@@ -220,11 +216,11 @@ public class TC_SubmissionForm_001 extends BaseClass {
     public void careers() throws InterruptedException, IOException {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("window.scrollBy(0,450)");
-        driver.findElement(By.xpath("//*[@id=\"menu-item-4719\"]/a")).click();
+        driver.findElement(By.xpath("//*[@id='menu-item-4719']/a")).click();
         Thread.sleep(2000);
-        driver.findElement(By.xpath("//*[@id=\"search_text\"]")).sendKeys("Carpenters");
+        driver.findElement(By.xpath("//*[@id='search_text']")).sendKeys("Carpenters");
         Thread.sleep(3000);
-        WebElement element = driver.findElement(By.xpath("//*[@id=\"main-content-area\"]/div[2]/h4/a"));
+        WebElement element = driver.findElement(By.xpath("//*[@id='main-content-area']/div[2]/h4/a"));
         if (element.getText().equals("Carpenters")) {
             captureScreen(driver, "careersTestPassed");
             Assert.assertTrue(true);
@@ -233,6 +229,38 @@ public class TC_SubmissionForm_001 extends BaseClass {
             captureScreen(driver, "careersTestFailed");
             logger.info("Careers Test has been failed");
             Assert.fail();
+        }
+    }
+        @Test(priority = 9)
+        public void downloadPreCastReport() throws InterruptedException, IOException {
+        logger.info("Download PreCast Report");
+        WebElement element= driver.findElement(By.name("email"));
+        element.sendKeys("suraj520876@gmail.com");
+        WebElement downloadElement=driver.findElement(By.xpath("//*[@class='hs-button primary large']"));
+        downloadElement.click();
+        Thread.sleep(3000);
+        WebElement textElement=driver.findElement((By.xpath("//div/p[@class='has-text-align-center']")));
+        if(textElement.getText().equals("Thank You For Downloading. Your “Our Precast Concrete Product Guide for Agriculture” has been emailed!")){
+            captureScreen(driver, "downloadPreCastReportPassed");
+            Assert.assertTrue(true);
+            logger.info("Download PreCast Report has been Passed");
+        }else{
+            captureScreen(driver, "downloadPreCastReportFailed");
+            logger.info("Download PreCast Report has been Failed");
+            Assert.fail();
+        }
+        Thread.sleep(2000);
+        driver.navigate().back();
+        Thread.sleep(2000);
+    }
+
+    @Test(priority = 10)
+    public void clientSuccessStory() throws InterruptedException {
+        logger.info("Clicking on Button to forward");
+        List<WebElement> elements=driver.findElements(By.xpath("//*[@id='main']/section[9]/div/div/div[3]/button"));
+        for(int i=1;i<=elements.size();i++){
+            driver.findElement(By.xpath("//*[@id='main']/section[9]/div/div/div[3]/button["+i+"]")).click();
+            Thread.sleep(2000);
         }
     }
 
