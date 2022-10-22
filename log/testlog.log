@@ -1,0 +1,295 @@
+2022-10-22 10:53:21,421 - Dallcon -INFO - URL is opened
+2022-10-22 10:53:22,008 - Dallcon -INFO - Submission Test passed
+2022-10-22 10:53:22,024 - Dallcon -INFO - Clicking Logo
+2022-10-22 10:53:24,470 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 10:53:24,470 - Dallcon -INFO - Playing Video
+2022-10-22 10:53:54,898 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 10:53:55,152 - Dallcon -INFO - Searching Product
+2022-10-22 10:54:03,421 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 10:54:04,028 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 10:54:19,920 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:54:19,943 - Dallcon -INFO - SubMenu Name: Box Culverts Headwalls
+2022-10-22 10:54:37,738 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:54:37,793 - Dallcon -INFO - SubMenu Name: Box Culverts
+2022-10-22 10:54:55,227 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:54:55,268 - Dallcon -INFO - SubMenu Name: RCP Pipes
+2022-10-22 10:55:05,237 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:55:05,290 - Dallcon -INFO - SubMenu Name: Headwalls
+2022-10-22 10:55:20,418 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:55:20,436 - Dallcon -INFO - SubMenu Name: BFB Cattle Feed Troughs
+2022-10-22 10:55:30,661 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:55:30,718 - Dallcon -INFO - SubMenu Name: Feed Troughs
+2022-10-22 10:55:55,364 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:55:55,388 - Dallcon -INFO - SubMenu Name: Standard Structural Footings
+2022-10-22 10:56:16,279 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:56:16,298 - Dallcon -INFO - SubMenu Name: Custom Footings
+2022-10-22 10:56:36,520 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:56:36,540 - Dallcon -INFO - SubMenu Name: Loading Ramps
+2022-10-22 10:56:54,460 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:56:54,485 - Dallcon -INFO - SubMenu Name: Custom Loading Ramps
+2022-10-22 10:57:10,311 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:57:10,352 - Dallcon -INFO - SubMenu Name: Septic Systems
+2022-10-22 10:57:21,746 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:57:21,797 - Dallcon -INFO - SubMenu Name: Septic Tanks
+2022-10-22 10:57:31,471 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:57:31,492 - Dallcon -INFO - SubMenu Name: Septic Tanks Lid
+2022-10-22 10:57:48,866 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:57:48,915 - Dallcon -INFO - SubMenu Name: Horse Water Trough
+2022-10-22 10:58:05,159 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:58:05,212 - Dallcon -INFO - SubMenu Name: Combo Water Troughs
+2022-10-22 10:58:20,725 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:58:20,777 - Dallcon -INFO - SubMenu Name: Jumbo Cattle Water Troughs
+2022-10-22 10:58:38,684 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 10:58:38,713 - Dallcon -INFO - SubMenu Name: Sheep & Goat Water Troughs
+2022-10-22 10:58:55,382 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 10:58:55,429 - Dallcon -INFO - MainMenu Name: CATTLE GRIDS
+2022-10-22 10:59:17,669 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 10:59:17,740 - Dallcon -INFO - MainMenu Name: L-BLOCKS
+2022-10-22 10:59:31,896 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 10:59:31,913 - Dallcon -INFO - MainMenu Name: OUTDOOR SETTINGS
+2022-10-22 10:59:47,074 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 10:59:47,090 - Dallcon -INFO - MainMenu Name: PANELS
+2022-10-22 10:59:59,268 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 10:59:59,284 - Dallcon -INFO - MainMenu Name: PRECAST BOLLARDS
+2022-10-22 11:00:13,718 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 11:00:13,763 - Dallcon -INFO - MainMenu Name: ROAD BARRIERS
+2022-10-22 11:00:28,701 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 11:00:28,743 - Dallcon -INFO - MainMenu Name: T-BLOCKS
+2022-10-22 11:00:42,916 - Dallcon -INFO - Hovering on Product Main_Menu Item
+2022-10-22 11:00:42,932 - Dallcon -INFO - MainMenu Name: TIE DOWN BLOCKS
+2022-10-22 11:01:04,115 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 11:01:04,162 - Dallcon -INFO - SubMenu Name: Boat Ramps
+2022-10-22 11:01:14,620 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 11:01:14,672 - Dallcon -INFO - SubMenu Name: Concrete Wheel Stops
+2022-10-22 11:01:27,508 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 11:01:27,526 - Dallcon -INFO - SubMenu Name: Kerbing
+2022-10-22 11:01:42,418 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 11:01:42,437 - Dallcon -INFO - SubMenu Name: Precast Stairs
+2022-10-22 11:01:52,090 - Dallcon -INFO - Hovering on Product Sub_Menu Item
+2022-10-22 11:01:52,139 - Dallcon -INFO - SubMenu Name: Rail Communications Pit
+2022-10-22 11:08:30,658 - Dallcon -INFO - URL is opened
+2022-10-22 11:08:31,225 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:08:31,238 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:08:33,837 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:08:33,838 - Dallcon -INFO - Playing Video
+2022-10-22 11:09:04,462 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:09:04,738 - Dallcon -INFO - Searching Product
+2022-10-22 11:09:14,954 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:09:15,797 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:20:49,976 - Dallcon -INFO - URL is opened
+2022-10-22 11:20:50,532 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:20:50,546 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:20:53,780 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:20:53,781 - Dallcon -INFO - Playing Video
+2022-10-22 11:21:24,239 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:21:24,521 - Dallcon -INFO - Searching Product
+2022-10-22 11:21:48,069 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:21:49,028 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:21:53,513 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:25:43,761 - Dallcon -INFO - URL is opened
+2022-10-22 11:25:44,299 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:25:44,318 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:25:48,921 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:25:48,922 - Dallcon -INFO - Playing Video
+2022-10-22 11:26:19,317 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:26:19,605 - Dallcon -INFO - Searching Product
+2022-10-22 11:26:41,819 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:26:44,616 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:26:49,023 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:30:02,970 - Dallcon -INFO - URL is opened
+2022-10-22 11:30:03,539 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:30:03,553 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:30:06,530 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:30:06,531 - Dallcon -INFO - Playing Video
+2022-10-22 11:30:37,055 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:30:37,333 - Dallcon -INFO - Searching Product
+2022-10-22 11:30:44,677 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:30:45,772 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:30:50,195 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:33:36,798 - Dallcon -INFO - URL is opened
+2022-10-22 11:33:37,410 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:33:37,429 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:33:40,226 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:33:40,226 - Dallcon -INFO - Playing Video
+2022-10-22 11:34:10,776 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:34:11,050 - Dallcon -INFO - Searching Product
+2022-10-22 11:34:23,016 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:34:23,855 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:34:28,259 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:47:45,838 - Dallcon -INFO - URL is opened
+2022-10-22 11:47:46,442 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:47:46,459 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:47:48,976 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:47:48,977 - Dallcon -INFO - Playing Video
+2022-10-22 11:48:19,571 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:48:19,857 - Dallcon -INFO - Searching Product
+2022-10-22 11:48:25,972 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:48:26,792 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:48:31,267 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:48:56,052 - Dallcon -INFO - Enquiry has not been submitted
+2022-10-22 11:49:41,605 - Dallcon -INFO - URL is opened
+2022-10-22 11:49:42,182 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:49:42,201 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:49:44,922 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:49:44,923 - Dallcon -INFO - Playing Video
+2022-10-22 11:50:15,424 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:50:15,700 - Dallcon -INFO - Searching Product
+2022-10-22 11:50:25,311 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:51:00,737 - Dallcon -INFO - Enquiry has not been submitted
+2022-10-22 11:52:07,650 - Dallcon -INFO - URL is opened
+2022-10-22 11:52:08,237 - Dallcon -INFO - Submission Test passed
+2022-10-22 11:52:08,253 - Dallcon -INFO - Clicking Logo
+2022-10-22 11:52:11,187 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 11:52:11,188 - Dallcon -INFO - Playing Video
+2022-10-22 11:52:41,614 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 11:52:41,880 - Dallcon -INFO - Searching Product
+2022-10-22 11:52:51,517 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 11:52:52,405 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 11:52:56,871 - Dallcon -INFO - Clicking and give all detail to Contact us form
+2022-10-22 11:53:36,160 - Dallcon -INFO - Enquiry has been submitted
+2022-10-22 12:06:35,032 - Dallcon -INFO - URL is opened
+2022-10-22 12:06:35,608 - Dallcon -INFO - Submission Test passed
+2022-10-22 12:06:35,625 - Dallcon -INFO - Clicking Logo
+2022-10-22 12:06:38,287 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 12:06:38,287 - Dallcon -INFO - Playing Video
+2022-10-22 12:07:08,938 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 12:07:09,220 - Dallcon -INFO - Searching Product
+2022-10-22 12:07:16,627 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 12:07:17,349 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 12:11:57,643 - Dallcon -INFO - URL is opened
+2022-10-22 12:11:58,227 - Dallcon -INFO - Submission Test passed
+2022-10-22 12:11:58,241 - Dallcon -INFO - Clicking Logo
+2022-10-22 12:12:01,199 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 12:12:01,199 - Dallcon -INFO - Playing Video
+2022-10-22 12:12:31,750 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 12:12:32,018 - Dallcon -INFO - Searching Product
+2022-10-22 12:12:43,068 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 12:12:43,951 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 12:12:55,580 - Dallcon -INFO - Careers Test has been submitted
+2022-10-22 13:56:15,752 - Dallcon -INFO - URL is opened
+2022-10-22 13:56:16,525 - Dallcon -INFO - Submission Test passed
+2022-10-22 13:56:16,547 - Dallcon -INFO - Clicking Logo
+2022-10-22 13:56:19,181 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 13:56:19,182 - Dallcon -INFO - Playing Video
+2022-10-22 13:56:49,831 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 13:56:50,076 - Dallcon -INFO - Searching Product
+2022-10-22 13:56:57,013 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 13:56:58,127 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 13:57:10,371 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 13:57:13,463 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 13:58:05,102 - Dallcon -INFO - URL is opened
+2022-10-22 13:58:05,739 - Dallcon -INFO - Submission Test passed
+2022-10-22 13:58:05,755 - Dallcon -INFO - Clicking Logo
+2022-10-22 13:58:08,409 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 13:58:08,409 - Dallcon -INFO - Playing Video
+2022-10-22 13:58:38,875 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 13:58:39,126 - Dallcon -INFO - Searching Product
+2022-10-22 13:58:44,266 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 13:58:45,037 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 13:58:54,194 - Dallcon -INFO - Custom Pre Cast Test has been submitted
+2022-10-22 13:58:58,619 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 13:59:01,741 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:01:11,604 - Dallcon -INFO - URL is opened
+2022-10-22 14:01:12,214 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:01:12,231 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:01:14,663 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:01:14,663 - Dallcon -INFO - Playing Video
+2022-10-22 14:01:45,271 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:01:45,578 - Dallcon -INFO - Searching Product
+2022-10-22 14:01:51,146 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:01:52,357 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:03:14,706 - Dallcon -INFO - URL is opened
+2022-10-22 14:03:15,305 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:03:15,323 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:03:17,899 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:03:17,901 - Dallcon -INFO - Playing Video
+2022-10-22 14:03:48,463 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:03:48,718 - Dallcon -INFO - Searching Product
+2022-10-22 14:03:54,004 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:03:54,933 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:04:03,960 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:04:08,334 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:04:11,448 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:14:25,623 - Dallcon -INFO - URL is opened
+2022-10-22 14:14:26,216 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:14:26,230 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:14:36,000 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:14:36,001 - Dallcon -INFO - Playing Video
+2022-10-22 14:15:06,447 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:15:06,700 - Dallcon -INFO - Searching Product
+2022-10-22 14:15:13,553 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:15:14,449 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:15:27,512 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:15:33,291 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:15:36,387 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:17:50,129 - Dallcon -INFO - URL is opened
+2022-10-22 14:17:50,723 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:17:50,738 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:17:53,125 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:17:53,125 - Dallcon -INFO - Playing Video
+2022-10-22 14:18:23,586 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:18:23,846 - Dallcon -INFO - Searching Product
+2022-10-22 14:18:29,790 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:18:30,604 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:18:41,416 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:18:46,142 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:18:49,233 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:18:51,397 - Dallcon -INFO - Hovering On Our Company
+2022-10-22 14:19:51,886 - Dallcon -INFO - URL is opened
+2022-10-22 14:19:52,439 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:19:52,453 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:19:55,451 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:19:55,451 - Dallcon -INFO - Playing Video
+2022-10-22 14:20:26,005 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:20:26,258 - Dallcon -INFO - Searching Product
+2022-10-22 14:20:31,316 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:20:32,151 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:20:41,892 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:20:49,360 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:20:52,469 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:20:54,537 - Dallcon -INFO - Hovering On Our Company
+2022-10-22 14:22:49,802 - Dallcon -INFO - URL is opened
+2022-10-22 14:22:50,551 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:22:50,567 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:22:54,897 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:22:54,897 - Dallcon -INFO - Playing Video
+2022-10-22 14:23:25,478 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:23:25,717 - Dallcon -INFO - Searching Product
+2022-10-22 14:23:31,747 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:23:32,415 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:23:41,638 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:23:47,110 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:23:50,213 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:23:52,289 - Dallcon -INFO - Hovering On Our Company
+2022-10-22 14:30:15,167 - Dallcon -INFO - URL is opened
+2022-10-22 14:30:16,087 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:30:16,105 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:30:18,555 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:30:18,556 - Dallcon -INFO - Playing Video
+2022-10-22 14:30:49,191 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:30:49,454 - Dallcon -INFO - Searching Product
+2022-10-22 14:30:54,628 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:30:55,368 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:31:04,612 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:31:08,961 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:31:12,054 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:31:14,221 - Dallcon -INFO - Hovering On Our Company
+2022-10-22 14:31:17,392 - Dallcon -INFO - Item name: ABOUT US
+2022-10-22 14:31:25,337 - Dallcon -INFO - Item name: 
+2022-10-22 14:33:23,033 - Dallcon -INFO - URL is opened
+2022-10-22 14:33:23,632 - Dallcon -INFO - Submission Test passed
+2022-10-22 14:33:23,646 - Dallcon -INFO - Clicking Logo
+2022-10-22 14:33:26,191 - Dallcon -INFO - Clicking On Branding Passed
+2022-10-22 14:33:26,191 - Dallcon -INFO - Playing Video
+2022-10-22 14:33:56,703 - Dallcon -INFO - Clicking On Close Icon
+2022-10-22 14:33:56,960 - Dallcon -INFO - Searching Product
+2022-10-22 14:34:02,213 - Dallcon -INFO - Searching  of Product Passed
+2022-10-22 14:34:03,148 - Dallcon -INFO - Clicking On Scroll button
+2022-10-22 14:34:12,446 - Dallcon -INFO - Custom Pre Cast Test has been Passed
+2022-10-22 14:34:17,588 - Dallcon -INFO - Clicking Mining of Project
+2022-10-22 14:34:20,687 - Dallcon -INFO - Clicking Civil of Project
+2022-10-22 14:34:25,964 - Dallcon -INFO - Hovering On Our Company
+2022-10-22 14:34:29,130 - Dallcon -INFO - Item name: ABOUT US
+2022-10-22 14:34:40,317 - Dallcon -INFO - Item name: OUR TEAM
+2022-10-22 14:34:51,341 - Dallcon -INFO - Item name: OUR BLOG
+2022-10-22 14:35:02,076 - Dallcon -INFO - Item name: CAREERS
