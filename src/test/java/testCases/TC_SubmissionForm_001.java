@@ -234,9 +234,13 @@ public class TC_SubmissionForm_001 extends BaseClass {
         @Test(priority = 9)
         public void downloadPreCastReport() throws InterruptedException, IOException {
         logger.info("Download PreCast Report");
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+//            // Scroll down by 1600 pixels
+            js.executeScript("window.scrollBy(0,1000)");
+        Thread.sleep(3000);
         WebElement element= driver.findElement(By.name("email"));
         element.sendKeys("suraj520876@gmail.com");
-        WebElement downloadElement=driver.findElement(By.xpath("//*[@class='hs-button primary large']"));
+        WebElement downloadElement=driver.findElement(By.xpath("//div/input[@class='hs-button primary large']"));
         downloadElement.click();
         Thread.sleep(3000);
         WebElement textElement=driver.findElement((By.xpath("//div/p[@class='has-text-align-center']")));
